@@ -1,0 +1,52 @@
+[2018-06-18 17:21:37.601771] Starting waiting for serial printer response.
+[2018-06-18 17:21:39.397168] Print message ID 1: INIT: [2018-06-18 17:21:39.396167] [msgId  1] [from process 4] For transaction id 1: Important notification! Almost below 100: 465.
+[2018-06-18 17:21:51.397467] Print message ID 1: OK
+[2018-06-18 17:21:56.047694] Print message ID 2: INIT: [2018-06-18 17:21:56.046693] [msgId  2] [from process 6] For transaction id 1: Important notification! Almost below 100: 210.
+[2018-06-18 17:21:58.713796] Print message ID 3: INIT: [2018-06-18 17:21:58.712796] [msgId  3] [from process 5] For transaction id 1: Important notification! Almost below 100: 967.
+[2018-06-18 17:22:08.047946] Print message ID 2: OK
+[2018-06-18 17:22:17.121722] Print message ID 4: INIT: [2018-06-18 17:22:17.120722] [msgId  4] [from process 2] For transaction id 1: Important notification! Almost below 100: 922.
+[2018-06-18 17:22:20.048851] Print message ID 3: OK
+[2018-06-18 17:22:21.605610] Print message ID 5: INIT: [2018-06-18 17:22:21.605610] [msgId  5] [from process 2] For transaction id 1: Important notification! Almost below 100: 818.
+[2018-06-18 17:22:32.049680] Print message ID 4: OK
+[2018-06-18 17:22:44.050492] Print message ID 5: OK
+[2018-06-18 17:22:52.808204] Print message ID 6: INIT: [2018-06-18 17:22:52.807205] [msgId  6] [from process 6] For transaction id 1: Important notification! Almost below 100: 218.
+[2018-06-18 17:22:54.095562] Print message ID 7: INIT: [2018-06-18 17:22:53.285029] [msgId  7] [from process 1] For transaction id 1: Important notification! Almost below 100: 134.
+[2018-06-18 17:23:04.808412] Print message ID 6: OK
+[2018-06-18 17:23:06.690489] Print message ID 8: INIT: [2018-06-18 17:23:06.690489] [msgId  8] [from process 1] For transaction id 1: Important notification! Almost below 100: 550.
+[2018-06-18 17:23:13.434381] Print message ID 9: INIT: [2018-06-18 17:23:13.433381] [msgId  9] [from process 5] For transaction id 1: Important notification! Almost below 100: 185.
+[2018-06-18 17:23:16.292730] Print message ID 10: INIT: [2018-06-18 17:23:16.292730] [msgId 10] [from process 2] For transaction id 1: Important notification! Almost below 100: 793.
+[2018-06-18 17:23:17.504031] Print message ID 7: OK
+[2018-06-18 17:23:18.680421] Print message ID 11: INIT: [2018-06-18 17:23:18.184638] [msgId 11] [from process 1] For transaction id 1: Important notification! Almost below 100: 501.
+[2018-06-18 17:23:21.930543] Print message ID 12: INIT: [2018-06-18 17:23:21.929544] [msgId 12] [from process 7] For transaction id 1: Important notification! Almost below 100: 418.
+[2018-06-18 17:23:23.205327] Print message ID 13: INIT: [2018-06-18 17:23:22.903982] [msgId 13] [from process 2] For transaction id 1: Important notification! Almost below 100: 961.
+[2018-06-18 17:23:28.809328] Print message ID 8: OK
+[2018-06-18 17:23:33.182230] Print message ID 14: INIT: [2018-06-18 17:23:33.182230] [msgId 14] [from process 2] For transaction id 1: Important notification! Almost below 100: 245.
+[2018-06-18 17:23:38.741082] Print message ID 15: INIT: [2018-06-18 17:23:38.741082] [msgId 15] [from process 5] For transaction id 1: Important notification! Almost below 100: 306.
+[2018-06-18 17:23:40.809889] Print message ID 9: OK
+[2018-06-18 17:23:43.186515] Print message ID 16: INIT: [2018-06-18 17:23:43.185517] [msgId 16] [from process 1] For transaction id 1: Important notification! Almost below 100: 398.
+[2018-06-18 17:23:48.552503] Print message ID 17: INIT: [2018-06-18 17:23:48.551504] [msgId 17] [from process 4] For transaction id 1: Important notification! Almost below 100: 187.
+[2018-06-18 17:23:49.774799] Print message ID 18: INIT: [2018-06-18 17:23:49.550927] [msgId 18] [from process 4] For transaction id 1: Important notification! Almost below 100: 495.
+[2018-06-18 17:23:52.810045] Print message ID 10: OK
+[2018-06-18 17:23:57.463191] Print message ID 19: INIT: [2018-06-18 17:23:57.462192] [msgId 19] [from process 3] For transaction id 1: Important notification! Almost below 100: 542.
+[2018-06-18 17:23:59.864134] Print message ID 20: INIT: [2018-06-18 17:23:59.863135] [msgId 20] [from process 0] For transaction id 1: Important notification! Almost below 100: 141.
+[2018-06-18 17:24:04.810994] Print message ID 11: OK
+[2018-06-18 17:24:06.001306] Print message ID 21: INIT: [2018-06-18 17:24:05.956332] [msgId 21] [from process 2] For transaction id 1: Important notification! Almost below 100: 985.
+[2018-06-18 17:24:07.210624] Print message ID 22: INIT: [2018-06-18 17:24:06.274148] [msgId 22] [from process 6] For transaction id 1: Important notification! Almost below 100: 916.
+[2018-06-18 17:24:16.811248] Print message ID 12: OK
+[2018-06-18 17:24:18.692786] Print message ID 23: INIT: [2018-06-18 17:24:18.691787] [msgId 23] [from process 4] For transaction id 1: Important notification! Almost below 100: 754.
+[2018-06-18 17:24:24.521737] Print message ID 24: INIT: [2018-06-18 17:24:24.521737] [msgId 24] [from process 6] For transaction id 1: Important notification! Almost below 100: 991.
+[2018-06-18 17:24:28.811619] Print message ID 13: OK
+[2018-06-18 17:24:30.071032] Print message ID 25: INIT: [2018-06-18 17:24:29.247506] [msgId 25] [from process 1] For transaction id 1: Important notification! Almost below 100: 284.
+[2018-06-18 17:24:40.811983] Print message ID 14: OK
+[2018-06-18 17:24:52.812117] Print message ID 15: OK
+[2018-06-18 17:25:04.812263] Print message ID 16: OK
+[2018-06-18 17:25:16.812759] Print message ID 17: OK
+[2018-06-18 17:25:28.813287] Print message ID 18: OK
+[2018-06-18 17:25:40.813433] Print message ID 19: OK
+[2018-06-18 17:25:52.813514] Print message ID 20: OK
+[2018-06-18 17:26:04.814274] Print message ID 21: OK
+[2018-06-18 17:26:16.814690] Print message ID 22: OK
+[2018-06-18 17:26:28.814931] Print message ID 23: OK
+[2018-06-18 17:26:40.815431] Print message ID 24: OK
+[2018-06-18 17:26:52.816003] Print message ID 25: OK
+[2018-06-18 17:26:54.072594] Finished waiting for serial printer response.

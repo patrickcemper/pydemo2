@@ -1,0 +1,27 @@
+[2018-06-18 17:21:37.504827] Starting to print messages from queue.
+[2018-06-18 17:21:51.397467] [2018-06-18 17:21:39.396167] [msgId  1] [from process 4] For transaction id 1: Important notification! Almost below 100: 465.
+[2018-06-18 17:22:08.047946] [2018-06-18 17:21:56.046693] [msgId  2] [from process 6] For transaction id 1: Important notification! Almost below 100: 210.
+[2018-06-18 17:22:20.048851] [2018-06-18 17:21:58.712796] [msgId  3] [from process 5] For transaction id 1: Important notification! Almost below 100: 967.
+[2018-06-18 17:22:32.049680] [2018-06-18 17:22:17.120722] [msgId  4] [from process 2] For transaction id 1: Important notification! Almost below 100: 922.
+[2018-06-18 17:22:44.050492] [2018-06-18 17:22:21.605610] [msgId  5] [from process 2] For transaction id 1: Important notification! Almost below 100: 818.
+[2018-06-18 17:23:04.808412] [2018-06-18 17:22:52.807205] [msgId  6] [from process 6] For transaction id 1: Important notification! Almost below 100: 218.
+[2018-06-18 17:23:16.808433] [2018-06-18 17:22:53.285029] [msgId  7] [from process 1] For transaction id 1: Important notification! Almost below 100: 134.
+[2018-06-18 17:23:28.809328] [2018-06-18 17:23:06.690489] [msgId  8] [from process 1] For transaction id 1: Important notification! Almost below 100: 550.
+[2018-06-18 17:23:40.809889] [2018-06-18 17:23:13.433381] [msgId  9] [from process 5] For transaction id 1: Important notification! Almost below 100: 185.
+[2018-06-18 17:23:52.810045] [2018-06-18 17:23:16.292730] [msgId 10] [from process 2] For transaction id 1: Important notification! Almost below 100: 793.
+[2018-06-18 17:24:04.810994] [2018-06-18 17:23:18.184638] [msgId 11] [from process 1] For transaction id 1: Important notification! Almost below 100: 501.
+[2018-06-18 17:24:16.811248] [2018-06-18 17:23:21.929544] [msgId 12] [from process 7] For transaction id 1: Important notification! Almost below 100: 418.
+[2018-06-18 17:24:28.811619] [2018-06-18 17:23:22.903982] [msgId 13] [from process 2] For transaction id 1: Important notification! Almost below 100: 961.
+[2018-06-18 17:24:40.811983] [2018-06-18 17:23:33.182230] [msgId 14] [from process 2] For transaction id 1: Important notification! Almost below 100: 245.
+[2018-06-18 17:24:52.812117] [2018-06-18 17:23:38.741082] [msgId 15] [from process 5] For transaction id 1: Important notification! Almost below 100: 306.
+[2018-06-18 17:25:04.812263] [2018-06-18 17:23:43.185517] [msgId 16] [from process 1] For transaction id 1: Important notification! Almost below 100: 398.
+[2018-06-18 17:25:16.812759] [2018-06-18 17:23:48.551504] [msgId 17] [from process 4] For transaction id 1: Important notification! Almost below 100: 187.
+[2018-06-18 17:25:28.813287] [2018-06-18 17:23:49.550927] [msgId 18] [from process 4] For transaction id 1: Important notification! Almost below 100: 495.
+[2018-06-18 17:25:40.813433] [2018-06-18 17:23:57.462192] [msgId 19] [from process 3] For transaction id 1: Important notification! Almost below 100: 542.
+[2018-06-18 17:25:52.813514] [2018-06-18 17:23:59.863135] [msgId 20] [from process 0] For transaction id 1: Important notification! Almost below 100: 141.
+[2018-06-18 17:26:04.814274] [2018-06-18 17:24:05.956332] [msgId 21] [from process 2] For transaction id 1: Important notification! Almost below 100: 985.
+[2018-06-18 17:26:16.814690] [2018-06-18 17:24:06.274148] [msgId 22] [from process 6] For transaction id 1: Important notification! Almost below 100: 916.
+[2018-06-18 17:26:28.814931] [2018-06-18 17:24:18.691787] [msgId 23] [from process 4] For transaction id 1: Important notification! Almost below 100: 754.
+[2018-06-18 17:26:40.815431] [2018-06-18 17:24:24.521737] [msgId 24] [from process 6] For transaction id 1: Important notification! Almost below 100: 991.
+[2018-06-18 17:26:52.816003] [2018-06-18 17:24:29.247506] [msgId 25] [from process 1] For transaction id 1: Important notification! Almost below 100: 284.
+[2018-06-18 17:26:52.816003] Finished printing messages from queue.
